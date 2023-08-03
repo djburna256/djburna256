@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @djburna256
+- 👋 Hi, My name is Atukwatse Brian
 - 👀 I’m interested in Computer programming
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 You can reach me via Email  Atukwatsebrian01@gmail.com
+- 📫 You can reach me via Email  atukwatsebrian01@gmail.com
 - Contact me on +256756595663/+256772981436
 
 <!---
